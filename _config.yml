@@ -3,9 +3,9 @@ domain: "http://github.io"
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://an15ms157.github.io/" # the base hostname & protocol for your site
 permalink: /:title/
-avatar: /murmur/assets/avatar.jpg
-about: /murmur/assets/about.jpg
-favicon: /murmur/assets/favicon.ico
+avatar: / an15ms157.github.io/assets/avatar.jpg
+about: / an15ms157.github.io/assets/about.jpg
+favicon: / an15ms157.github.io/assets/favicon.ico
 basecss: 
 # Theme specific configuration
 title: songroger
