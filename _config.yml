@@ -1,7 +1,7 @@
 # Site configuration
-domain: "http://songroger.win"
-baseurl: "/murmur" # the subpath of your site, e.g. /blog
-url: "http://songroger.github.io/" # the base hostname & protocol for your site
+domain: "http://github.io"
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "http://an15ms157.github.io/" # the base hostname & protocol for your site
 permalink: /:title/
 avatar: /murmur/assets/avatar.jpg
 about: /murmur/assets/about.jpg
@@ -10,15 +10,15 @@ basecss:
 # Theme specific configuration
 title: songroger
 description: >
-  Hi there, My name is Luozhan.Song, usually I use "songroger" as my ID everywhere.
-  I was born and raised in Hunan China. 
-  I'm really fond of beautiful design, drawing etc.
-
+  Hi there, My name is Abhishek Nath. 
+  I was born and raised in Kolkata, India. 
+  I plan to use this site as a digital representation of myself
+  
 # Contact and social media links
 twitter_username: songrogero
 github_username: songroger
 facebook_username: song.roger.1
-instagram_username: songroger198
+instagram_username: prime_lens2.0
 linkedin_username: songroger
 
 exclude: ['node_modules', 'gulpfile.js', 'package.json']
