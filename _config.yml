@@ -1,6 +1,6 @@
 # Site configuration
 domain: "http://github.io"
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "/an15ms157.github.io" # the subpath of your site, e.g. /blog
 url: "http://an15ms157.github.io/" # the base hostname & protocol for your site
 permalink: /:title/
 avatar: /an15ms157.github.io/assets/avatar.jpg
