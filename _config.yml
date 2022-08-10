@@ -8,11 +8,16 @@ about: /an15ms157.github.io/assets/about.jpg
 favicon: /an15ms157.github.io/assets/favicon.ico
 basecss: 
 # Theme specific configuration
-title: songroger
+title: Abhishek
 description: >
-  Hi there, My name is Abhishek Nath. 
-  I was born and raised in Kolkata, India. 
-  I plan to use this site as a digital representation of myself
+  
+    A little about myself
+
+    Hi there, I'm Abhishek Nath!
+    I'm currently doing my PhD from HighRR group, KIP, Heidelberg University. When I am not working, I binge watch movies a lot, code ( only when I get bored of movies ) and obscurely plan to make a self-financed movie one day. My idea to start a github+Jekyll driven static website originated simply because I wish to learn more about version control and polish my skills on coding but in an interesting way. Read more about myself...
+
+    Notice: This site will always be under construction
+
   
 # Contact and social media links
 twitter_username: songrogero
